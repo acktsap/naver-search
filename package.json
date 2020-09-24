@@ -1,0 +1,26 @@
+{
+  "name": "naver-search",
+  "version": "1.0.0",
+  "description": "A firefox extension which adds www.naver.com as a search engine.",
+  "scripts": {
+    "start": "web-ext run -s ./src",
+    "build": "web-ext build -s ./src --overwrite-dest -a dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acktsap/naver-search.git"
+  },
+  "keywords": [
+    "firefox",
+    "extension"
+  ],
+  "author": "Taeik lim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/acktsap/naver-search/issues"
+  },
+  "homepage": "https://github.com/acktsap/naver-search#readme",
+  "devDependencies": {
+    "web-ext": "^5.1.0"
+  }
+}

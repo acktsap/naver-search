@@ -1,0 +1,9 @@
+{
+  "manifest_version": 2,
+  "name": "naver-search",
+  "description": "A firefox extension which adds www.naver.com as a search engine.",
+  "version": "1.0.0",
+  "icons": {
+    "64": "icons/icon.png"
+  }
+}
