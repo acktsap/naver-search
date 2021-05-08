@@ -2,6 +2,14 @@
 
 A firefox extension which adds www.naver.com as a search engine.
 
+## Download
+
+[firefox add-ons](https://addons.mozilla.org/ko/firefox/addon/naver-search/)
+
+## Usage
+
+![naver-search](./img/naver-search.gif)
+
 ## Build From source
 
 ### Prerequisite
